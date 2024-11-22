@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kollegal</string>
+    <string name="Healthcare">HealthCare</string>
+    <string name="HOSPITAL">HOSPITAL</string>
+    <string name="PHARMACY">PHARMACY</string>
+    <string name="LABORATORIES">LABORATORIES</string>
+    <string name="GOVT_HEALTH_SCHEMES">GOVT HEALTH SCHEMES</string>
+    <string name="FITNESS_CENTRE">FITNESS CENTRE</string>
+    <string name="FREE_HEALTH_CAMPS">FREE HEALTH CAMPS</string>
+    <string name="KOLLEGAL_HOSPITALS">KOLLEGAL HOSPITALS</string>
+    <string name="health">Health is wealth</string>
+    <string name="KOLLEGAL_Pharmacy">KOLLEGAL PHARMACY</string>
+    <string name="KOLLEGAL_Diagnostic">KOLLEGAL DIAGNOSTICS</string>
+    <string name="healthnutrients">Healthy diet\n hi hello</string>
+    <string name="Arogya">Ayushman-Bharat</string>
+    <string name="Fitness_Center">Fitness Center</string>
+
+</resources>

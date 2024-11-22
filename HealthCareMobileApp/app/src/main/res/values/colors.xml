@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color> <!-- Green -->
+    <color name="blue">#FF0000FF</color> <!-- Blue -->
+    <color name="yellow">#FFFFFF00</color> <!-- Yellow -->
+    <color name="cyan">#FF00FFFF</color> <!-- Cyan -->
+    <color name="magenta">#FFFF00FF</color> <!-- Magenta -->
+    <color name="Purple"> #FF800080</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="homeback">#f8f4ff</color>
+    <color name="mediumblue">#0000cd</color>
+    <color name="very_lightgrey">#E6E6E6</color>
+    <color name="skyblue">#00bfff</color>
+    <color name="cotton">#f2f7fd</color>
+</resources>
